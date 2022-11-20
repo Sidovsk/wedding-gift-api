@@ -1,0 +1,17 @@
+.vscode/
+.bin/
+.cache/
+
+node_modules/
+
+dist/
+build/
+
+Build/
+Dist/
+
+*.yaml
+*.yml
+*.json
+*.js
+*.txt
